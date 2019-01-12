@@ -2,8 +2,8 @@
    
  attr_accessor :artist, :title
  
- def initialize(name)
-   @name = name
+ def initialize(artist, title)
+   @artist = artist
    @title = title
  end
 end
