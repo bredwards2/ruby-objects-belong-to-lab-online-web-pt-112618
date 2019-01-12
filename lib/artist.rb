@@ -6,6 +6,3 @@
    @name = name
  end
 end
-
-name = Artist.new 
-Artist.name
