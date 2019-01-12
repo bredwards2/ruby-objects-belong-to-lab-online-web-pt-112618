@@ -6,3 +6,5 @@
    @name = name
  end
 end
+
+author = Author.new
