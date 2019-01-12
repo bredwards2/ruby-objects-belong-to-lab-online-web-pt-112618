@@ -7,3 +7,4 @@
  end
 end
 
+beyonce = Artist.new("Beyonce")
