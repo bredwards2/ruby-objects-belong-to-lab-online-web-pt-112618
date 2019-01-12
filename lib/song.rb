@@ -8,4 +8,3 @@
  end
 end
 
-song = Song.new
