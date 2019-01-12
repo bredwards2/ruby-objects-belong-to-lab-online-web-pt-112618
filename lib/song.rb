@@ -6,3 +6,5 @@
    @title = title
  end
 end
+
+artist = Artist.new
