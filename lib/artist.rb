@@ -7,5 +7,5 @@
  end
 end
 
-beyone = Artist.new("Beyonce")
+beyonce = Artist.new("Beyonce")
 Arist.name = "Beyonce"
