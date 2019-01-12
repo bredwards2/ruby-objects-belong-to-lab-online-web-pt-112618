@@ -8,4 +8,4 @@
 end
 
 name = Artist.new 
-
+Artist.name
