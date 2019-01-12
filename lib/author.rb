@@ -7,4 +7,3 @@
  end
 end
 
-author = Author.new
