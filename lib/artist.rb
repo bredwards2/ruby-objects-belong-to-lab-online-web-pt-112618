@@ -8,4 +8,4 @@
 end
 
 beyonce = Artist.new("Beyonce")
-Arist.name = "Beyonce"
+Artist.name = "Beyonce"
