@@ -6,3 +6,6 @@
    @name = name
  end
 end
+
+beyone = Artist.new("Beyonce")
+Arist.name = "Beyonce"
