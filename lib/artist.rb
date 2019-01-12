@@ -7,4 +7,5 @@
  end
 end
 
-Artist.name
+name = Artist.new 
+
