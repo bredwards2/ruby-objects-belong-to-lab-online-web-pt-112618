@@ -7,4 +7,4 @@
  end
 end
 
-Artist.new
+artist = Artist.new
